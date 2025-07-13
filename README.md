@@ -1,4 +1,4 @@
-# Denoising_RC
+# Denoising and Reconstruction of Nonlinear Dynamics using Truncated Reservoir Computing
 
 This repository contains the source code, datasets, and instructions to reproduce the experiments and results presented in the paper:
 
