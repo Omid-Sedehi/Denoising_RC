@@ -12,3 +12,8 @@ arXiv:2504.13355
 
 
 Enquiries should be addressed to Dr. Omid Sedehi at omid.sedehi@uts.edu.au.
+
+
+# Background and Supplementary Codes
+Please refer to the following repository for further codes and examples:
+https://github.com/Cyber-Physical-Systems-in-Mech-Eng/pyReCo
